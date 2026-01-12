@@ -1,0 +1,1 @@
+1) replace the LLM for sentiment analysis with the LLM "de-sarcasm-ing" the incoming news and making it unambigious and then passing the news into VADER or textblob
