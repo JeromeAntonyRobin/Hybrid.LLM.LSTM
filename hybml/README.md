@@ -1,10 +1,7 @@
-navigate to hybridseries/finalthatworks/lazyfinalapproach.py for the latest prototype version
+# Human-Centric Hybrid Prediction Engine (LLM-LSTM)
 
 
-Human-Centric Hybrid Prediction Engine (LLM-LSTM)
-
-
-*Project Goal*
+## *Project Goal*
 
 To develop a hybrid context-aware prediction logic that bridges the gap between rigid mathematical forecasting and human behavioral reality.
 
