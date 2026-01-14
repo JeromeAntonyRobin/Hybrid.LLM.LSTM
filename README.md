@@ -51,11 +51,11 @@ This repository creates a proof-of-concept using Financial Markets, as they are 
 
 **Output:** A future price curve with confidence intervals that expands or contracts based on the level of detected "Uncertainty".
 
+## [Click Here](./hybml/hybridseries/finalthatworks/README.md) for the latest stable prototype engine
 
 # Still In Progress
 Project development is currently paced by **hardware limitations**, as running local LLMs alongside deep learning models is highly resource-intensive.
 
-## [Click Here](./hybml/hybridseries/finalthatworks/README.md) for the latest stable prototype engine
 
 ## License  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/></a>
 MIT License - Use it. Fork it. Modify it. Built for behavioral and statistical research.
