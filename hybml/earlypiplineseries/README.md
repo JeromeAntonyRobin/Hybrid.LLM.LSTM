@@ -1,7 +1,7 @@
 # Stock Data Aggregation and Visualization Tools
 
 ## Description
-This repository contains Python scripts for retrieving financial data, processing news sentiment, and visualizing correlations between news events and stock price movements. These scripts serve as the exploratory data analysis (EDA) foundation for downstream machine learning tasks.
+This folder contains Python scripts for retrieving financial data, processing news sentiment, and visualizing correlations between news events and stock price movements. These scripts serve as the exploratory data analysis (EDA) foundation for downstream machine learning tasks.
 
 ## Contents
 * **csvmaker.py:** ETL pipeline that downloads historical OHLCV data via yfinance, fetches news headlines, applies VADER sentiment scoring, and merges data into a CSV file for model training.
