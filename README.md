@@ -27,10 +27,35 @@ This engine creates a synthesis where mathematical sound logic is adjusted by ps
 - **Component:** Weighted Adjustment Algorithm.
 - **Logic:** `Final Prediction = Baseline * (1 + Emotional Bias + Risk Penalty)`
 
+## **Outcome:** 
+
+A forecast that reflects not just what should happen according to the numbers, but what likely will happen given the current human state of mind.
+
+
+
+---
+
+## *Implementation Case Study: Financial Markets*
+
+This repository creates a proof-of-concept using Financial Markets, as they are the perfect sandbox for testing "Human + Math" dynamics and have decades worth of OHLCV data.
+
+**Input:** OHLCV Market Data + Financial News Feeds.
+
+
+* **Processing:**
+* LSTM calculates price momentum.
+
+
+* LLM calculates "Market Fear/Greed" and "Macro-Economic Optimism".
+
+
+**Output:** A future price curve with confidence intervals that expands or contracts based on the level of detected "Uncertainty".
+
+
 # Still In Progress
 Project development is currently paced by **hardware limitations**, as running local LLMs alongside deep learning models is highly resource-intensive.
 
 ## [Click Here](./hybml/hybridseries/finalthatworks/README.md) for the latest stable prototype engine
 
-## License
+## License  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/></a>
 MIT License - Use it. Fork it. Modify it. Built for behavioral and statistical research.
