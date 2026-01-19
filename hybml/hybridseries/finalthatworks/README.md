@@ -60,15 +60,23 @@ Dates: Select your historical training window (recommended: 2 years of data).
 Lookback: The number of past days the LSTM considers for one prediction (default: 60).
 
 Analyzer: Select DeepSeek-R1 for the full hybrid reasoning experience.
+## Adjust Parameters!
+<img width="1356" height="717" alt="image" src="https://github.com/user-attachments/assets/c88b2604-515e-4604-96be-9dde1da5ad24" />
+
+
 
 
 ---
 
 ## Run Prediction:
 
-Click "Predict Prices & Generate Plots".
+### Click "Predict Prices & Generate Plots".
 
-Wait: The system will first fetch data, then "think" (querying the local LLM for sentiment/risk), and finally train the LSTM. This process may take 1-3 minutes depending on your hardware.
+<img width="1346" height="693" alt="Screenshot 2026-01-19 232014" src="https://github.com/user-attachments/assets/6d149694-aaa9-433f-987c-b1ac93b9705a" />
+
+### Wait: The system will first fetch data, then "think" (querying the local LLM for sentiment/risk), and finally train the LSTM. This process may take 1-3 minutes depending on your hardware.
+
+<img width="1345" height="675" alt="Screenshot 2026-01-19 232145" src="https://github.com/user-attachments/assets/5cade474-f9cf-4213-a444-00c85b9d034b" />
 
 ---
 
@@ -79,6 +87,10 @@ Prediction Tab: Shows the numerical forecast and the specific "Influence Factors
 DeepSeek-R1 Logs: Switch to this tab to see the raw "Chain of Thought" and JSON outputs from the AI.
 
 Interactive Plots: Click the buttons to open high-resolution HTML graphs in your browser.
+
+<img width="1341" height="680" alt="image" src="https://github.com/user-attachments/assets/7d6c0855-eb10-4a0e-8df2-9a16e690f782" />
+
+<img width="1318" height="588" alt="Screenshot 2026-01-19 232309" src="https://github.com/user-attachments/assets/7ca84de3-fb4b-4d5e-ad3c-36be712bcbf7" />
 
 ---
 
