@@ -53,6 +53,13 @@ This repository creates a proof-of-concept using Financial Markets, as they are 
 
 ## [Click Here](./hybml/hybridseries/finalthatworks/README.md) for the latest stable prototype engine
 
+---
+
+### Project Structure
+
+<img width="1035" height="1017" alt="image" src="https://github.com/user-attachments/assets/6466a562-a788-43b0-973d-9432486ca5e8" />
+
+
 # Still In Progress
 Project development is currently paced by **hardware limitations**, as running local LLMs alongside deep learning models is highly resource-intensive.
 
