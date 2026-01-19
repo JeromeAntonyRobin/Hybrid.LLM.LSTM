@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+plotly
+vaderSentiment
+textblob
+scikit-learn
+tensorflow
+ollama
