@@ -32,7 +32,7 @@ Navigate to this directory:
 Bash
 ```
 cd hybml/hybridseries/finalthatworks
-Install Python Dependencies: We recommend using a virtual environment.
+#Install Python Dependencies: We recommend using a virtual environment. I used Anaconda Conda Environment.
 
 
 pip install -r requirements.txt
