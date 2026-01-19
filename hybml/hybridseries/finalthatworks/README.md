@@ -92,6 +92,8 @@ Interactive Plots: Click the buttons to open high-resolution HTML graphs in your
 
 <img width="1318" height="588" alt="Screenshot 2026-01-19 232309" src="https://github.com/user-attachments/assets/7ca84de3-fb4b-4d5e-ad3c-36be712bcbf7" />
 
+<img width="1285" height="556" alt="Screenshot 2026-01-19 232355" src="https://github.com/user-attachments/assets/8947bd9e-10d1-4034-bdc4-1a8e6190ba1a" />
+
 ---
 
 ## File Structure
